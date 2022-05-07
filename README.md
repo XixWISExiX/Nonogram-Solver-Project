@@ -1,3 +1,6 @@
+# THIS IS A COLLEGE PROJECT AND NOT MY OWN, THIS IS HERE TO SHOW WHAT I WAS ABLE TO DO WHEN COMPLETING THIS PROJECT.
+# ORIGINAL OWNER IS THE UNIVERSITY OF OKLAHOMA CS 2334
+
 # Project 5: Not-From-Scratch Nonogram Player
 
 > Programming isn't about what you know; it's about what you can figure out.
